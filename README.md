@@ -1,0 +1,2 @@
+# Malta-Pharmaceuticals-RDP-Incident-Response
+Enterprise-grade incident response project documenting the detection, investigation, containment and hardening actions following a credential-based RDP compromise at Malta Pharmaceuticals. The repository includes executive-level reporting, validated SPL detection logic, and evidence of endpoint and firewall mitigation aligned with real-world SOC and incident response practices.
